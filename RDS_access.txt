@@ -1,0 +1,3 @@
+
+Database instance = http://database-1.cymjv65vjtcv.eu-west-3.rds.amazonaws.com/
+to connect =postgresql+psycopg2://postgres:Tatchou2023@database-1.cymjv65vjtcv.eu-west-3.rds.amazonaws.com/postgres
